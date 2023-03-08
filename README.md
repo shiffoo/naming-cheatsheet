@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 dsadasdsadasddsadsadsadasdsadsadasdsadsadsa<p align="center">
+=======
+ewqewqewqedsasdsadsadsa<p align="center">
+>>>>>>> branch1
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
